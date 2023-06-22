@@ -8,6 +8,6 @@ Website was created from scratch to be a display placeholder for future projects
 ![Screenshot](./assets/pics/Screenshot2.png)
 
 ## Website Links
-[Live deployed website for Horiseon](https://safwaan41.github.io/HoriseonRefactor/)
+[Live deployed website for Horiseon](https://safwaan41.github.io/portfolio/)
 
-[Link to GitHub Repo](https://github.com/safwaan41/HoriseonRefactor)# Portfolio
+[Link to GitHub Repo](https://github.com/safwaan41/portfolio)

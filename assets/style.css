@@ -4,11 +4,12 @@ body
     display: flex;
     flex-direction: column;
 }
+/* ASSIGNED TO ALL SECTIONS */
 section
 {
     height: 300px;
 }
-
+/* LANDING PAGE PICTURE */
 .hero
 {
     background-image: url(./pics/landscape.png);
@@ -17,7 +18,7 @@ section
     color: white;
     font-size: 25px;
 }
-
+/* NAV LINKS ON TOP RIGHT (WORKING) */
 nav
 {
     background-color: rgb(169, 195, 255);
@@ -27,7 +28,7 @@ nav
     justify-content: space-between;
     
 }
-
+/* NAME DISPLAYED ON TOP LEFT */
 .name
 {
     background-color: rgb(154, 113, 255);
@@ -46,7 +47,7 @@ footer
     
 }
 
-
+/* NAV BAR */
 ul
 {
     display: flex;
@@ -74,7 +75,7 @@ p
     margin: 0px;
     font-size: 20px;
 }
-
+/* LANDING PAGE PICTURE */
 .heroarea
 {
     display: flex;
@@ -82,6 +83,7 @@ p
     height: 100%;
     justify-content: center;
 }
+/* COOL TEXT */
 .herotxt
 {
     display: flex;
@@ -95,18 +97,12 @@ p
     font-size: 30px;
 }
 
-/* h2
-{
-    font: size 25px;
-    display: flex;
-    
-} */
-
+/* MAIN BODY */
 .about
 {
     display: flex;
 }
-
+/* FOOTER LINKS */
 .social
 {
     font-size: 11px;
@@ -132,13 +128,13 @@ p
     border-left: 10px solid cyan;
     padding:40px;
 }
-
+/* MAIN BODY */
 .projects
 {
     display: flex;
     height: 700px;
 }
-
+/* ASIDE CONTAINING ABOUT ME, PROJECTS */
 aside
 {
     width: 20%;
@@ -161,7 +157,7 @@ aside
     text-align: right;
 
 }
-
+/* WIRE FRAME FOR PROJECTS */
 .frame
 {
     width: 80%;
@@ -170,7 +166,7 @@ aside
     border-left: 10px solid cyan;
     margin-left: 45px;
 }
-
+/* PROJECTS START HERE */
 .grid
 {
     height: 95%;
@@ -382,3 +378,4 @@ aside
     font-size: small;
     background-color: rgb(106, 215, 215);
 }
+/* PROJECTS END HERE */
